@@ -1,0 +1,13 @@
+#DATA-PATH{   /*div central*/
+    background: #00A8D9;
+    width: 50px;
+    height: 50px;
+    margin: 50px auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border:3px solid #000;
+}
+canvas.linkable{
+   cursor: pointer;
+ }
